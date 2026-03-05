@@ -15,16 +15,6 @@ CloudVault is an OJT (On-Job Training) project built as a full-stack web applica
 ### 🎯 Problem It Solves
 Many users struggle to securely store and organize important digital documents like bills, reports, and personal files. Files get scattered across devices or lost over time. CloudVault provides a centralized, secure, and easy-to-use cloud storage solution.
 
-## 👥 Team
-
-| Name | Roll No | Section |
-|------|---------|---------|
-| Himanshu Prajapat | 251810700236 | 2C |
-| Arpit Raj | 251810700196 | 2C |
-
-**Mentor:** Divyashant Kumar  
-**Year:** 2026
-
 ## 🚀 Features
 
 - 🔐 **Secure Authentication** — JWT-based login and registration with bcrypt password hashing
